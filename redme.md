@@ -1,0 +1,1 @@
+Things that I learned in HTML/CSS and bases to remember.
